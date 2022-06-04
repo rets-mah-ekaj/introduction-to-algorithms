@@ -9,6 +9,7 @@ Hi geeks, I am creating this repository to enlist my views (answers) to the exer
 3. Ronald L. Rivest
 4. Clifford Stein
 
+![Where to find the book?](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 ---
 
 1. **1.1-1:** Give a real-world example that requires sorting or a real-world example that requires a convex hull.
